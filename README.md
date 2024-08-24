@@ -1,12 +1,11 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mardenluiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mardenluiz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mardenluiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mardenluiz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<p align="left">
-#### Back-end</p>
+<p align="left"><strong>Back-end</strong></p>
 
 ###
 
@@ -18,8 +17,7 @@
 
 ###
 
-<p align="left">
-#### Front-end</p>
+<p align="left"><strong>Front-end</strong></p>
 
 ###
 
@@ -41,8 +39,7 @@
 
 ###
 
-<p align="left">
-#### Ferramentas</p>
+<p align="left"><strong>tools<strong></p>
 
 ###
 
@@ -56,12 +53,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
 </div>
 
 ###
 
-<p align="left">
-#### Infrastructure</p>
+<p align="left"><strong>Infrastructure</strong></p>
 
 ###
 
@@ -73,8 +77,7 @@
 
 ###
 
-<p align="left">
-#### Database</p>
+<p align="left"><strong>Database</strong></p>
 
 ###
 
