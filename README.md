@@ -1,23 +1,26 @@
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mardenluiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mardenluiz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mardenluiz&radius=16&theme=react&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<p align="left"><strong>Back-end</strong></p>
+<h3 align="left">Back-end</h3>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="20" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
 ###
 
-<p align="left"><strong>Front-end</strong></p>
+<h3 align="left">Front-end</h3>
 
 ###
 
@@ -39,7 +42,7 @@
 
 ###
 
-<p align="left"><strong>tools<strong></p>
+<h3 align="left">tools</h3>
 
 ###
 
@@ -65,7 +68,7 @@
 
 ###
 
-<p align="left"><strong>Infrastructure</strong></p>
+<h3 align="left">Infrastructure</h3>
 
 ###
 
@@ -77,7 +80,7 @@
 
 ###
 
-<p align="left"><strong>Database</strong></p>
+<h3 align="left">Database</h3>
 
 ###
 
